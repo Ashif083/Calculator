@@ -1,0 +1,21 @@
+D:\Code\C#\Calculator\bin\Debug\Calculator.exe.config
+D:\Code\C#\Calculator\bin\Debug\Calculator.exe
+D:\Code\C#\Calculator\bin\Debug\Calculator.pdb
+D:\Code\C#\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Code\C#\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Code\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Code\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Code\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Code\C#\Calculator\obj\Debug\Calculator.exe
+D:\Code\C#\Calculator\obj\Debug\Calculator.pdb
+F:\Code\C# Core\Calculator\bin\Debug\Calculator.exe.config
+F:\Code\C# Core\Calculator\bin\Debug\Calculator.exe
+F:\Code\C# Core\Calculator\bin\Debug\Calculator.pdb
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.Calculator.resources
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.exe
+F:\Code\C# Core\Calculator\obj\Debug\Calculator.pdb
